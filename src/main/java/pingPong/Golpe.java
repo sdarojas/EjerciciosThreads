@@ -11,10 +11,10 @@ public class Golpe {
         return hit;
     }
     public synchronized void ping(){
-        hit = "Ping";
+        hit = "PING";
     }
     public synchronized void pong(){
-        hit = "Pong";
+        hit = "PONG¡¡¡¡¡¡¡¡¡¡¡¡¡¡";
 
     }
 
