@@ -12,10 +12,11 @@ public class Golpe {
     }
     public synchronized void ping(){
         hit = "Ping";
-
     }
     public synchronized void pong(){
         hit = "Pong";
 
     }
+
+
 }
